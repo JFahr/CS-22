@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=PriorityQueueExample
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=queue
+comment2.target=java.util.PriorityQueue\ removeDuplicate(java.util.PriorityQueue)
+comment3.params=queue\ k
+comment3.target=int\ kthSmallest(java.util.PriorityQueue,\ int)
+numComments=4

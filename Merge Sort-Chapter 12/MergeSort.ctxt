@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MergeSort
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=array
+comment2.target=java.lang.String[]\ mergeSort(java.lang.String[])
+comment3.params=array
+comment3.target=java.lang.String[]\ leftHalf(java.lang.String[])
+comment4.params=array
+comment4.target=java.lang.String[]\ rightHalf(java.lang.String[])
+comment5.params=result\ left\ right
+comment5.target=void\ merge(java.lang.String[],\ java.lang.String[],\ java.lang.String[])
+numComments=6

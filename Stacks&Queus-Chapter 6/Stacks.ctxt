@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Stacks
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input
+comment2.target=java.util.Stack\ SplitStack(java.util.Stack)
+comment3.params=list
+comment3.target=void\ rearrange(java.util.Queue)
+numComments=4

@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ListNode
+comment1.params=
+comment1.target=ListNode()
+comment2.params=data
+comment2.target=ListNode(int)
+comment3.params=data\ next
+comment3.target=ListNode(int,\ ListNode)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=java.lang.String\ max()
+comment6.params=
+comment6.target=java.lang.String\ min()
+comment7.params=value
+comment7.target=void\ insertNode(int)
+comment8.params=index
+comment8.target=void\ remove(int)
+comment9.params=index
+comment9.target=ListNode\ nodeAt(int)
+numComments=10

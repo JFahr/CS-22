@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=IntTreeNode
+comment1.params=data
+comment1.target=IntTreeNode(int)
+comment2.params=value
+comment2.target=void\ add(int)
+comment3.params=root
+comment3.target=void\ inOrder(IntTreeNode)
+comment4.params=node
+comment4.target=void\ preOrder(IntTreeNode)
+comment5.params=root
+comment5.target=void\ postOrder(IntTreeNode)
+comment6.params=root\ nodeToBeInserted
+comment6.target=IntTreeNode\ add(IntTreeNode,\ IntTreeNode)
+comment7.params=root\ value
+comment7.target=IntTreeNode\ deleteNode(IntTreeNode,\ int)
+comment8.params=root
+comment8.target=IntTreeNode\ minimumElement(IntTreeNode)
+comment9.params=node
+comment9.target=int\ maxDepth(IntTreeNode)
+numComments=10
